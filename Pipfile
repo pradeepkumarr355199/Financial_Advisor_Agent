@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+phidata = "*"
+groq = "*"
+yfinance = "*"
+packaging = "*"
+openai = "*"
+duckduckgo-search = "*"
+phi = "*"
+pipenv = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"

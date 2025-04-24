@@ -1,0 +1,10 @@
+phidata
+groq
+yfinance
+packaging
+openai
+duckduckgo-search
+phi
+sqlalchemy
+"fastapi[standard]"
+pipenv
